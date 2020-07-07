@@ -17,3 +17,5 @@ In this blog, we dive into a real life machine learning project provided by Arva
 - Apply Supervised Learning to predict whether or not a person became a customer of the company following the campaign.
 - Investigate the most important feature trained by machine learning model and compare the feature distribution between target/non-target population.
 
+
+# The Github profile is found on https://medium.com/@dluene/investigating-consumer-retention-4840198d9e91?sk=7547c13084fbb856dd1381507bd4b755
